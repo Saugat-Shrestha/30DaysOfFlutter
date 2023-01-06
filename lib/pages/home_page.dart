@@ -12,7 +12,7 @@ class Homepage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("welcome to $days of coding by $name."),
+          child: Text("welcome to $days of codings by $name."),
         ),
       ),
       drawer: Drawer(),
